@@ -1,0 +1,9 @@
+CREATE TABLE Horário(
+  id INTEGER PRIMARY KEY,
+  hora TEXT NOT NULL,
+  segunda TEXT NOT NULL,
+  terça TEXT NOT NULL,
+  quarta TEXT NOT NULL,
+  quinta TEXT NOT NULL,
+  sexta TEXT NOT NULL
+);
